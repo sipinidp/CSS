@@ -1,0 +1,11 @@
+body{
+		background-color: pink;
+}
+
+#center{
+	text-align: center;
+}
+
+#right{
+	text-align: right;
+}
